@@ -1,3 +1,5 @@
-modif locale
-ET
-A pull > modifie un fichier > add > commit > push
+modif locale  
+ET  
+A pull > modifie un fichier > add > commit > push  
+
+hop
